@@ -11,7 +11,39 @@ div {
     text-align: center;
 }
 
-#tentativa input {
+#tentativa1 input {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20pt;
+}
+
+#tentativa2 input {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20pt;
+}
+
+#tentativa3 input {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20pt;
+}
+
+#tentativa4 input {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+    font-size: 20pt;
+}
+
+#tentativa5 input {
     width: 50px;
     height: 50px;
     margin: 5px;
